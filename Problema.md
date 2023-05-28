@@ -1,0 +1,22 @@
+*TP2 - LOGISTICA - METAHEURISTICAS*
+    - **Variables**
+        - Costo por tons: funcional
+        - Tonelas de cada cliente por camion Xij cantidad de toneladas que lleva el camión i al cliente j
+    - **Estructura**
+    - **Espacio de Busqueda**
+        - Soluciones factibles:
+            - forall(i in n) sum(j in 15) Xij < 12tons
+            - distancia de a pares tiene que ser < 2km 
+            - n < 3
+            - Solamente un camion por cliente
+            - ["A", "B"]
+    - **Vecindario**
+        - Seleccionar una cantidad x de pedidos de camiones aletoriamente
+        - Armar un array empezar a distribuirlos nuevamente
+        - Eliminar los pedidos hasta llegar a una solucion factible
+    - Agregar pedidos
+        - Agregar 
+
+    - Seleccionar camiones aleatoriamente
+        - Selecccionar pedido de esos camiones
+        - Mezclar y vovler a colocar

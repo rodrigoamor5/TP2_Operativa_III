@@ -1,0 +1,21 @@
+**Q&A**
+    - *GenerarSolucionInicial*
+        - **Verificar que contenga a todos los clientes**
+        - verificar que no contenga mas de 3 clientes por camion
+        - <ALEATORIA>
+    - *pedidosPorCamion*
+        - **Verificar que devuelva todos las series por cada camion**
+    - *tonsAsignadasPorCamion*
+        - **devuelva las tons por camion correctamente**
+        - **devuelva las tons no repartidas correctamente**
+    - *costoPorCamion*
+        - **Verificar que devuelva el costo correcto en funcion de las tons**
+    - *tonsNoAsignadas*
+        - **devuelve las tons correspondientes a una list y una Series**
+    - *costoTotal*
+        - **REVISAR que de la cuenta**
+    - *tonsRepartidas*
+        - **suma de array**
+    - *generarVecino1*
+        - **Verificar que estén todos los clientes luego de sucesivas veces**
+        - verificar que no haya mas de 3 clientes por camion
