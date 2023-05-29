@@ -6,3 +6,6 @@ Hacer 1 loop solo para calcular el costo del camion
 
 - **SOLUCION: sol = [['A', 'B'], ['C', 'D']], , costo = tot, costoPorTonelada =**
 - **Entrega de la solucion en un DATA FRAME filas: Camion y no ruteadas , Cliente:Columnas**
+
+
+- Combinar, la funcion pedidosPorCamion / tonsRepartidasPorCamion

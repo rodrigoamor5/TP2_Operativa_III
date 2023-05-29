@@ -17,5 +17,6 @@
     - *tonsRepartidas*
         - **suma de array**
     - *generarVecino1*
-        - **Verificar que estén todos los clientes luego de sucesivas veces**
+        - Verificar que estén todos los clientes luego de sucesivas veces <NOAPRUEBA>
+        - <VER SI GENERA PROBLEMAS POR REFERENCIA>
         - verificar que no haya mas de 3 clientes por camion
