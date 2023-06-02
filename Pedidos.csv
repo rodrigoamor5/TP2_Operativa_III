@@ -1,0 +1,12 @@
+"""C:\Users\rjiam\AppData\Local\Programs\Python\Python39\python.exe""",,
+,,
+,Direccion absoluta del archivo de python entre comillas,"""C:\Users\rjiam\AppData\Local\Programs\Python\Python39\python.exe"""
+,Direccion absoluta del script de python entre comillas,"""C:\Users\rjiam\OneDrive - fi.uba.ar\Operativa III\TP2\Notebooks\Entrega V5.py"""
+1,Direccion del archivo con las distancias,"""C:\Users\rjiam\OneDrive - fi.uba.ar\Operativa III\TP2\ResultadosMacros.csv"""
+2,Direccion del archivo con los pedidos,"""C:\Users\rjiam\OneDrive - fi.uba.ar\Operativa III\TP2\ResultadosMacros.csv"""
+3,Direccion del archivo con los resultados,"""C:\Users\rjiam\OneDrive - fi.uba.ar\Operativa III\TP2\ResultadosMacros.csv"""
+4,Costo de la tonelada no repartida,300
+5,Cantidad de Clientes por Camion,3
+6,Cantidad de Camiones,6
+7,Toneladas maximas por camion,12
+8,distancia maxima entre clientes,2

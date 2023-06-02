@@ -1,0 +1,15 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Create a sample DataFrame
+data = {'Name': ['Alice', 'Bob', 'Charlie'],
+        'Age': [25, 30, 35],
+        'City': ['New York', 'London', 'Paris']}
+df = pd.DataFrame(data)
+
+# Export DataFrame to CSV
+file_path = r'C:\Users\rjiam\OneDrive - fi.uba.ar\Operativa III\TP2\prueba.csv'
+
+df.to_csv(file_path, index=False)
+
+
